@@ -1,1 +1,3 @@
 Modified index.js
+Committed: Tiny consistency fix
+Modified index.js
