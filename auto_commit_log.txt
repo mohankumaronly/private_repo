@@ -1,3 +1,5 @@
 Modified index.js
 Committed: Tiny consistency fix
 Modified index.js
+Committed: Cleaned small piece of logic
+Modified index.js
