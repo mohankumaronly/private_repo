@@ -7,3 +7,5 @@ Committed: Slight change for later refactor
 Modified index.js
 Committed: Cleanup before next task
 Modified index.js
+Committed: Minor adjustment to code
+Modified index.js
