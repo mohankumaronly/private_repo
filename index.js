@@ -14,3 +14,5 @@
 // checking stability
 
 // simple daily change
+
+// quick note to self
