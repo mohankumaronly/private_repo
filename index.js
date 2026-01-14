@@ -16,3 +16,5 @@
 // simple daily change
 
 // quick note to self
+
+// adjusting structure

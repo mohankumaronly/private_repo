@@ -15,3 +15,5 @@ Committed: Code readability improvement
 Modified index.js
 Committed: Slight change for later refactor
 Modified index.js
+Committed: Fixed quick typo or format
+Modified index.js
