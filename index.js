@@ -18,3 +18,5 @@
 // quick note to self
 
 // adjusting structure
+
+// reviewing logic soon
