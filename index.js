@@ -34,3 +34,5 @@
 // checking stability
 
 // simple daily change
+
+// reviewing logic soon

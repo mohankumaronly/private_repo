@@ -33,3 +33,5 @@ Committed: Fixed quick typo or format
 Modified index.js
 Committed: Routine commit update
 Modified index.js
+Committed: Cleaned small piece of logic
+Modified index.js
