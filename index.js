@@ -40,3 +40,5 @@
 // quick note to self
 
 // reviewing logic soon
+
+// simple daily change

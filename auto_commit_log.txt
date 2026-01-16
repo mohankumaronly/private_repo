@@ -39,3 +39,5 @@ Committed: Cleanup before next task
 Modified index.js
 Committed: Slight change for later refactor
 Modified index.js
+Committed: Updated comment style
+Modified index.js
