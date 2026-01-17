@@ -50,3 +50,5 @@
 // adjusting structure
 
 // adjusting structure
+
+// quick note to self
