@@ -53,3 +53,5 @@ Committed: Slight change for later refactor
 Modified index.js
 Committed: Updated comment style
 Modified index.js
+Committed: Cleaned small piece of logic
+Modified index.js
